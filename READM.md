@@ -7,4 +7,4 @@
 # Programming language
   C++
 # Screenshots
-![image](https://user-images.githubusercontent.com/34757116/70213174-95880100-16ed-11ea-8b0b-9a5521e38782.png)
+
