@@ -1,0 +1,10 @@
+﻿  Company.cpp
+  Database.cpp
+  Driver.cpp
+e:\team_project_22c_fall2019\team_project_22c_fall2019\team_project_22c_fall2019\driver.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  StringHashTable.cpp
+e:\team_project_22c_fall2019\team_project_22c_fall2019\team_project_22c_fall2019\singlylinkedlist.h(431): warning C4309: 'initializing': truncation of constant value
+  e:\team_project_22c_fall2019\team_project_22c_fall2019\team_project_22c_fall2019\stringhashtable.cpp(209): note: see reference to function template instantiation 'std::ostream &operator <<<StringHashTable::tuple>(std::ostream &,const SinglyLinkedList<StringHashTable::tuple> &)' being compiled
+  Generating Code...
+  LINK : E:\Team_Project_22C_Fall2019\Team_Project_22C_Fall2019\Debug\Team_Project_22C_Fall2019.exe not found or not built by the last incremental link; performing full link
+  Team_Project_22C_Fall2019.vcxproj -> E:\Team_Project_22C_Fall2019\Team_Project_22C_Fall2019\Debug\Team_Project_22C_Fall2019.exe

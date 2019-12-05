@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BST&lt;T, V&gt;" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAABAAAAEAAAgAAAgAAAAQAAAACAAAAAAAAE=</HashCode>
+      <FileName>BST.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BSTNode&lt;T, V&gt;" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAgAAIACAABAIEAIAQiAAIACAAQEACAABAwAA=</HashCode>
+      <FileName>BSTNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEJAAAACAAAAAAAEAAAAAACAAEAABAAABAA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECgAAAGAAAAQAAAAAABBAAABCAAAAACSAI=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkNode&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEQEAACAAAAAAAAAAAAAAAAAAAAAQAAIAASAAIAAAA=</HashCode>
+      <FileName>LinkNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queue&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAQAGQAAAAAAAAAAAAAAEQAA=</HashCode>
+      <FileName>Queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SinglyLinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAwgAEAgACAAEAABAAAAAAAAAEAAAAAAAAAAIAEAgA=</HashCode>
+      <FileName>SinglyLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringHashTable" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAQABAAEBEIAAgSAAQAAAgAAAAAAAAAgAQAAA=</HashCode>
+      <FileName>StringHashTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SortType" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>SinglyLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
