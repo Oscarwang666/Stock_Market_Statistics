@@ -1,5 +1,5 @@
 
-# Stock-Market-Statistics
+# Stock Market Statistics
 ![image](https://user-images.githubusercontent.com/34757116/70212437-22ca5600-16ec-11ea-8c42-ad234a659c30.png)
 ![image](https://user-images.githubusercontent.com/34757116/70212450-2827a080-16ec-11ea-952d-fe210db7ffee.png)
 ![image](https://user-images.githubusercontent.com/34757116/70212515-42fa1500-16ec-11ea-946a-1c8812f4f63b.png)
