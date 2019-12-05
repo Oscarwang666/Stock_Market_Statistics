@@ -8,3 +8,8 @@
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/34757116/70213673-c1f04d00-16ee-11ea-9973-8c0efd75209f.png)
+# Binary Search Tree
+![image](https://user-images.githubusercontent.com/34757116/70213732-f401af00-16ee-11ea-83c8-44b850be079f.png)
+
+# Hash Table
+![image](https://user-images.githubusercontent.com/34757116/70213766-0976d900-16ef-11ea-93b5-2e78a7aed475.png)
