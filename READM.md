@@ -1,5 +1,7 @@
 
 # Stock Market Statistics
+This program will analze different stocks price, market caps and percentages changed for the top 50 companies, which also contains three data structures such as Link List, Binary Tree, and Hash Table (Not from STL). 
+
 ![image](https://user-images.githubusercontent.com/34757116/70212437-22ca5600-16ec-11ea-8c42-ad234a659c30.png)
 ![image](https://user-images.githubusercontent.com/34757116/70212515-42fa1500-16ec-11ea-946a-1c8812f4f63b.png)
 ![image](https://user-images.githubusercontent.com/34757116/70212529-49888c80-16ec-11ea-8233-e625e24f4229.png)
