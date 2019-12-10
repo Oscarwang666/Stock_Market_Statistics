@@ -8,7 +8,9 @@
 
 <h1>Stock Market Statistics</h1>
 This program will analyze different stocks price, market caps and percentages changed for the top 50 companies over some time and recommends user stock to buy.
-![image](https://user-images.githubusercontent.com/34757116/70515936-044ccc00-1aeb-11ea-910c-278d207b4f13.png)
+
+![image](https://user-images.githubusercontent.com/34757116/70516048-20e90400-1aeb-11ea-8f85-c90107623566.png)
+
 
 <h1>What I Learned</h1>
 <h2>Link List</h2>
