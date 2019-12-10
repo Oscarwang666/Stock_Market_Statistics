@@ -8,7 +8,7 @@
 
 <h1>Stock Market Statistics</h1>
 
-<h2>This program will analze different stocks price, market caps and percentages changed for the top 50 companies.</h2>
+This program will analze different stocks price, market caps and percentages changed for the top 50 companies.
 
 <h1>What I Learned</h1>
 <h2>Link List</h2>
