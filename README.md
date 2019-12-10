@@ -12,11 +12,11 @@
 
 <h1>What I Learned</h1>
 
-<li>Link List</li>
-<li>Binary Tree</li>
-<li>Hash Table</li>
+<li><h2>Link List</h2></li>
+<li><h2>Binary Tree</h2></li>
+<li><h2>Hash Table</h2></li>
 <h1>Programming language</h1>
-<li>C++</li>
+<li><h2>C++</h2></li>
 
 </body>
 </html>
