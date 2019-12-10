@@ -11,9 +11,8 @@
 <h2>This program will analze different stocks price, market caps and percentages changed for the top 50 companies.</h2>
 
 <h1>What I Learned</h1>
-
 <h2>Link List</h2>
-<li><h2>Binary Tree</h2></li>
+<li><h2>Binary Tree</h2>
 <h2>Hash Table</h2>
 <h1>Programming language</h1>
 <h2>C++</h2>
