@@ -18,7 +18,9 @@ This program will analyze different stocks price, market caps and percentages ch
 <h2>Hash Table</h2>
 <h1>Programming language</h1>
 <h2>C++</h2>
+
 ![image](https://user-images.githubusercontent.com/34757116/70516119-46760d80-1aeb-11ea-8434-969f8a848bc7.png)
+
 ![image](https://user-images.githubusercontent.com/34757116/70515905-f72fdd00-1aea-11ea-9b3f-5626256a30d0.png)
 
 
