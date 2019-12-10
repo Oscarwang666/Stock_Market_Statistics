@@ -7,17 +7,17 @@
 <body>
 
 <h1>Stock Market Statistics</h1>
-This program will analyze different stocks price, market caps and percentages changed for the top 50 companies over some time and recommends user stock to buy.
+<p>This program will analyze different stocks price, market caps and percentages changed for the top 50 companies over some time and recommends user stock to buy.</p>
 
 ![image](https://user-images.githubusercontent.com/34757116/70516048-20e90400-1aeb-11ea-8f85-c90107623566.png)
 
 
 <h1>What I Learned</h1>
-<h2>Link List</h2>
-<h2>Binary Tree</h2>
-<h2>Hash Table</h2>
-<h1>Programming language</h1>
-<h2>C++</h2>
+<h3>Link List</h3>
+<h3>Binary Tree</h3>
+<h3>Hash Table</h3>
+<h1>Programming language</h3>
+<h3>C++</h3>
 
 <h1>Data Structure</h1>
 
