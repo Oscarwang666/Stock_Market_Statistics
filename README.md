@@ -13,11 +13,11 @@
 
 
 <h1>What I Learned</h1>
-<h3>Link List</h3>
-<h3>Binary Tree</h3>
-<h3>Hash Table</h3>
-<h1>Programming language</h3>
-<h3>C++</h3>
+<h3>- Link List</h3>
+<h3>- Binary Tree</h3>
+<h3>- Hash Table</h3>
+<h1>- Programming language</h3>
+<h3>- C++</h3>
 
 <h1>Data Structure</h1>
 
