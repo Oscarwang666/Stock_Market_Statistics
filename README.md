@@ -16,7 +16,7 @@
 <h3>- Link List</h3>
 <h3>- Binary Tree</h3>
 <h3>- Hash Table</h3>
-<h3>Design solutions for advanced problems using appropriate design methodology incorporating advanced data structures programming constructs</h3>
+<h3>- Design solutions for advanced problems using appropriate design methodology incorporating advanced data structures programming constructs</h3>
 <h1>Programming language</h3>
 <h3>- C++</h3>
 
